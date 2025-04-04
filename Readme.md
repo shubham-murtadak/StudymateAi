@@ -34,7 +34,7 @@ This AI-powered learning assistant helps students interact with their notes effi
 
 
 ## 🎥 Project Demo  
-🔗 **Watch the demo video here:** [![Project Demo](https://img.icons8.com/fluency/48/youtube-play.png)](https://drive.google.com/file/d/18kAxtS8oVZIVMIdW-MtUqakadgpJxjU8/view?usp=sharing)
+🔗 **Watch the demo video here:** [![Project Demo](Screenshot/image.png)](https://drive.google.com/file/d/18kAxtS8oVZIVMIdW-MtUqakadgpJxjU8/view?usp=sharing)
 
 
 Stay tuned for updates! 🚀📖✨
