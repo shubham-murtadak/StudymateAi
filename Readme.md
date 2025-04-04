@@ -33,9 +33,12 @@ This AI-powered learning assistant helps students interact with their notes effi
 🔹 Enhancing AI-generated MCQs for better assessment quality.  
 
 ## 🎥 Project Demo  
-🔗 **Watch the demo video here:**  
 
-[![Click here for video demo](Screenshot/image.png)](https://drive.google.com/uc?id=18kAxtS8oVZIVMIdW-MtUqakadgpJxjU8)
+🖼️ **Screenshot of the Project Interface:**  
+![Project Screenshot](Screenshot/image.png)  
+
+🔗 **Watch the demo video here:**  
+[👉 Click here to watch the demo](https://drive.google.com/file/d/18kAxtS8oVZIVMIdW-MtUqakadgpJxjU8/view?usp=sharing)
 
 
 Stay tuned for updates! 🚀📖✨
